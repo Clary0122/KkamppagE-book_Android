@@ -12,7 +12,7 @@
 ![kpEbookAndroid](https://user-images.githubusercontent.com/79209568/111672540-68694e80-885d-11eb-9ff6-656600d17232.gif)
 
 ### 주요 기능 설명
-* 책 서랍 페이지 : 책 선택
-* double blink : 다음 페이지로 이동
-* long blink : 이전 페이지로 이동
-* camera window on/off switch : 카메라 화면 스위치 (off해도 동작 가능)
+* **Book list page** : 책 선택
+* **Double blink** : 다음 페이지로 이동
+* **Long blink** : 이전 페이지로 이동
+* **Camera window on/off switch** : 카메라 화면 스위치 (off해도 동작 가능)
