@@ -3,7 +3,7 @@
 * 2020 프로젝트 종합 설계 '깜빡E-book'
 * 프로젝트 기간 : 2020.05 ~ 2020.07 (3개월)
 
-> <font size:'10px'>기획 배경 및 시스템 설계와 동작은 깜빡E-book openCV 프로젝트와 동일합니다.</font>
+> 기획 배경 및 시스템 설계와 동작은 깜빡E-book openCV 프로젝트와 동일합니다.  
 > [👀 깜빡E-book :: openCV로 간단한 눈 깜빡임 페이지 조작 시스템 구현 👀](https://github.com/chaeyun0122/KkamppagE-book_openCV)
 
 ## Demo
