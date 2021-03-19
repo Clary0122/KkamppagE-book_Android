@@ -12,6 +12,8 @@
 ## 시스템 동작
 ![image](https://user-images.githubusercontent.com/79209568/111717983-83a77e80-889c-11eb-8bb8-6e79dfd7783f.png)
   
+## Usage
+* **Download this apk! [👉깜빡E-book APK👈](https://github.com/Clary0122/KkamppagE-book_Android/blob/4c4c4eb2bb47d1f7fda6289bcb88b9f243d06358/app/release/app-release.apk)**
   
 ## Demo
 ![kpEbookAndroid](https://user-images.githubusercontent.com/79209568/111672540-68694e80-885d-11eb-9ff6-656600d17232.gif)
@@ -21,7 +23,6 @@
 * **Double blink** : 다음 페이지로 이동
 * **Long blink** : 이전 페이지로 이동
 * **Camera  on/off switch** : 카메라 화면 스위치 (off해도 동작 가능)
-  
   
 ## 시스템 설계
 ![image](https://user-images.githubusercontent.com/79209568/111714343-c82f1c00-8894-11eb-90af-3c30c9d1dfc7.png)
