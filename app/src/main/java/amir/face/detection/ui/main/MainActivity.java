@@ -36,8 +36,6 @@ import com.github.barteksc.pdfviewer.PDFView;
 import com.github.barteksc.pdfviewer.util.FitPolicy;
 import com.google.android.gms.common.annotation.KeepName;
 import com.google.firebase.ml.vision.face.FirebaseVisionFace;
-import com.hsalf.smilerating.BaseRating;
-import com.hsalf.smilerating.SmileRating;
 
 import java.io.IOException;
 
