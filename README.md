@@ -12,7 +12,8 @@
 ## 시스템 설계
 ![image](https://user-images.githubusercontent.com/79209568/111714343-c82f1c00-8894-11eb-90af-3c30c9d1dfc7.png)
 1. ML Kit의 face detection API를 이용해서 카메라로 입력 받는 사용자의 얼굴을 인식인식한다.
-2. Open Probability 함수를 사용해서 실시간으로 사용자의 눈 깜빡임에 따라 0~1 사이의 예측값이 깜빡임 상태 변수(leftstate, rightstate)에 업데이트된다.  
+2. Open Probability 함수를 사용한다. (눈이 떠져있을 확률을 반환해주는 함수)
+3. 실시간으로 사용자의 눈 깜빡임에 따라 0~1 사이의 예측값이 깜빡임 상태 변수(leftstate, rightstate)에 업데이트된다.  
   
   
 ## 시스템 동작
