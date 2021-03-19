@@ -27,4 +27,4 @@
 * **Book list page** : 책 선택
 * **Double blink** : 다음 페이지로 이동
 * **Long blink** : 이전 페이지로 이동
-* **Camera window on/off switch** : 카메라 화면 스위치 (off해도 동작 가능)
+* **Camera  on/off switch** : 카메라 화면 스위치 (off해도 동작 가능)
