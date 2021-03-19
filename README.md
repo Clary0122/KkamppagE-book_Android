@@ -14,7 +14,7 @@
   
 ## Usage
 * ### Download this apk! 
-  **[👉깜빡E-book APK👈]**(https://github.com/Clary0122/KkamppagE-book_Android/blob/4c4c4eb2bb47d1f7fda6289bcb88b9f243d06358/app/release/app-release.apk)**
+  **[👉깜빡E-book APK👈](https://github.com/Clary0122/KkamppagE-book_Android/blob/4c4c4eb2bb47d1f7fda6289bcb88b9f243d06358/app/release/app-release.apk)**
   
 ## Demo
 ![kpEbookAndroid](https://user-images.githubusercontent.com/79209568/111672540-68694e80-885d-11eb-9ff6-656600d17232.gif)
